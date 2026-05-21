@@ -1,4 +1,4 @@
-# File Manager CLI
+#  Python File Manager CLI
 
 A simple but versatile command-line file manager written in Python.  
 This project allows users to create, read, write, rename, verify, clean, open, and delete files directly from the terminal with support for multiple file formats.
@@ -49,27 +49,6 @@ This project allows users to create, read, write, rename, verify, clean, open, a
 - `csv`
 - `configparser`
 
----
-
-## How to Run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-```
-
-Open the project folder:
-
-```bash
-cd your-repository
-```
-
-Run the script:
-
-```bash
-python main.py
-```
 
 ---
 
