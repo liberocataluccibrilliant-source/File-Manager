@@ -1,0 +1,9 @@
+{
+    "Supported files": {
+        ".txt": "all the functions available",
+        ".json": "all the functions available",
+        ".csv": "all the functions available",
+        ".md": "all the function available",
+        ".ini": "all the function (except for writing) available"
+    }
+}
