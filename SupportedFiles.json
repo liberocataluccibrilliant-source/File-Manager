@@ -3,7 +3,7 @@
         ".txt": "all the functions available",
         ".json": "all the functions available",
         ".csv": "all the functions available",
-        ".md": "all the function available",
-        ".ini": "all the function (except for writing) available"
+        ".md": "all the functions available",
+        ".ini": "all the functions (except for writing) available"
     }
 }
